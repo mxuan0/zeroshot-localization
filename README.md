@@ -1,10 +1,10 @@
 To prepare environment and install dependencies:
 
 ```bash
-$ git clone https://github.com/HendrikStrobelt/miniClip.git
-$ cd miniClip
-$ conda create -n miniclip python=3.8
-$ conda activate miniclip
+$ git clone https://github.com/mxuan0/zeroshot-localization.git
+$ cd zeroshot-localization
+$ conda create -n zeroshot-localization python=3.8
+$ conda activate zeroshot-localization
 $ pip install -r requirements.txt
 ```
 
